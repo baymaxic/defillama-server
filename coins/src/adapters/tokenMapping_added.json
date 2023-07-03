@@ -1218,7 +1218,7 @@
       "symbol": "cWETHv3",
       "to": "coingecko#weth"
     },
-    "0x72a19342e8f1838460ebfccef09f6585e32db86e":  {
+    "0x72a19342e8f1838460ebfccef09f6585e32db86e": {
       "decimals": "18",
       "symbol": "vlCVX",
       "to": "coingecko#convex-finance"
@@ -7477,6 +7477,26 @@
       "decimals": "6",
       "symbol": "USDT",
       "to": "coingecko#tether"
+    },
+    "0x9663c2d75ffd5f4017310405fce61720af45b829": {
+      "decimals": "18",
+      "symbol": "PHUX",
+      "to": "coingecko#phux-governance-token"
+    },
+    "0xfe39fdc0012dcf10c9f674ea7e74889e4d71a226": {
+      "decimals": "18",
+      "symbol": "wePHIAT",
+      "to": "coingecko#ephiat"
+    },
+    "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": {
+      "decimals": "8",
+      "symbol": "pHEX",
+      "to": "coingecko#hex-pulsechain"
+    },
+    "0xabf663531fa10ab8116cbf7d5c6229b018a26ff9": {
+      "decimals": "9",
+      "symbol": "wHDRN",
+      "to": "coingecko#hedron"
     }
   },
   "xpla": {
