@@ -7497,6 +7497,11 @@
       "decimals": "9",
       "symbol": "wHDRN",
       "to": "coingecko#hedron"
+    },
+    "0x95b303987a60c71504d99aa1b13b4da07b0790ab": {
+      "decimals": "18",
+      "symbol": "PLSX",
+      "to": "coingecko#pulsex"
     }
   },
   "xpla": {
